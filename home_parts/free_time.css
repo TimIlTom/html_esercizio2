@@ -1,0 +1,15 @@
+h1{
+    color: olive;
+    background-color: #42f5f2;
+    font-family: comic sans-serif;
+}
+
+hr{
+    border: 6px solid magenta;
+}
+
+li{
+    font-style: italic;
+    font-size: 30px;
+    color: #ecf542;
+}
